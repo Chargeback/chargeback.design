@@ -10,6 +10,18 @@ body {
 
 h1, h2 { color: #234; }
 
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+code {
+  background: #fff;
+  border-radius: 1px;
+  font-weight: 500;
+  padding: 0 4px;
+}
+
 /* https://www.dannyguo.com/blog/animated-multiline-link-underlines-with-css/ */
 a {
   background-image: linear-gradient(currentColor, currentColor);

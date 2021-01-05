@@ -29,7 +29,8 @@ Here are some other great references about the “shortcut to learning process�
 
 * [Google Ventures Remote Sprint Guide](https://www.thesprintbook.com/remote)
 * [AJ & Smart Remote Sprint Guide](https://ajsmart.com/remotedesignsprints)
-* [Figma](https://www.figma.com)
+* [Remote Design in Figma](https://www.figma.com/remote-design/)
+* [Online Workshops in Miro](https://miro.com/online-meetings/)
 
 ## Beta program
 
@@ -53,7 +54,21 @@ Feel free to leave comments on [our first prototype](#) we tested with customers
 
 ## Brand & UI kit
 
-Marketing just needed a keystone legacy screen for now. Plenty to do later.
+Marketing just needed an accurate legacy screen for now. Plenty to do later. Rebrand is in progress.
+
+![Chargeback-Disputes-List-1280@2x](https://res.cloudinary.com/chargeback/image/upload/v1609871669/Chargeback-Disputes-List-1280_2x_csnjff.png)
+
+## Customer calls
+
+A curated set of video clips and full recordings from our customer calls are housed in the shared Team Drive called “Customer Product Community.”
+
+[Go to Team Drive](https://drive.google.com/drive/folders/1DNoDoo6fbOB4E62S_IONDBYPz5dhLerb)
+
+Note: You must be signed in with an `@chargeback.com` email address for this link to work.
+
+## Analytics product
+
+We have reports. We need analytics. Reports give you data. Analytics give you insights via comparison.
 
 ## Contribute
 
