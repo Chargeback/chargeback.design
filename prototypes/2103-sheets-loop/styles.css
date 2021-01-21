@@ -1,0 +1,22 @@
+small { text-transform: uppercase; }
+
+#Status-Bar { padding: 24px; }
+#Sign-Out {
+  background: #eee9e3;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: none;
+  font: inherit;
+  padding: 8px 12px;
+}
+.isSignedIn #Sign-Out { display: block; }
+
+#Content { padding: 24px; }
+
+#Not-Found {
+  margin-top: 72px;
+  opacity: .6;
+}
+#Not-Found div { padding: 8px 12px; }
+#Not-Found div + div { border-top: 1px solid #eee9e3; }
