@@ -1,0 +1,28 @@
+
+body {
+  background: #eee9e3;
+  padding: 10% 20% 10% 10%;
+}
+
+#Prompt {
+  font-size: 150px;
+  letter-spacing: -.03em;
+  margin-bottom: 1em;
+}
+#Prompt b:first-of-type { color: #266554; }
+#Prompt b:last-of-type { color: #59B58A; }
+
+#Buttons {
+  display: flex;
+  justify-content: space-between;
+}
+#Buttons div {
+  background: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 24px;
+  padding: 32px 48px;
+}
+#Buttons div:hover { color: #fff; }
+#Next-Person:hover { background: #266554; }
+#Next-Prompt:hover { background: #59B58A; }
