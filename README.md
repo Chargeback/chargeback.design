@@ -15,6 +15,8 @@
 
 [Go to Loom.com](https://www.loom.com)
 
+[Here’s an example](https://www.loom.com/share/31e46b9697a44a0aab1b99347f2766d9) I sent before a product team meeting.
+
 ### 3. Wait 7 seconds.
 
 Compared to being in the same physical room, it’s more difficult to “feel” the timing of when to start speaking, stop listening, or switch topics. Waiting 7 seconds is a good rule of thumb to leave space for people to react after asking a question or before moving on from the topic at hand.
