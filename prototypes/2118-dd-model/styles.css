@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.15.3/css/all.css');
+
+body {
+  font: 500 100%/1 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, 'Apple Color Emoji', Arial, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+  text-rendering: geometricPrecision;
+}
+
+#Status-Bar { padding: 24px; }
+#Sign-Out {
+  background: #eee9e3;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: none;
+  font: inherit;
+  padding: 8px 12px;
+}
+.isSignedIn #Sign-Out { display: block; }
+
+#Content {
+  font-size: 22px;
+  line-height: 1.5;
+  padding: 24px;
+}
+
+ul > li { margin-bottom: 1em; }
+
+ol {
+  background: #eee9e3;
+  border-radius: 12px;
+  padding: 1em 2em;
+}
+
+b {
+  background: #eee9e3;
+  border-radius: 6px;
+  color: #265;
+  padding: 0 .2em;
+}
